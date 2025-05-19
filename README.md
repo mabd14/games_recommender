@@ -1,4 +1,4 @@
-Semantic Games Recommender
+# Semantic Games Recommender
 
 This is a project I undertook as my Capstone Project at Digitial Futures. It incorporates  Natural Language Processing (NLP), by using OpenAI's embedding model.   
 Embeddings are representations of text as high-dimensional vectors that preserve the relationships between words or sentences based on their meaning, enabling more meaningful comparisons than simple keyword matching.  
