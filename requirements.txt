@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+selenium
+streamlit
+openai
+pandas
+python-dotenv
+langchain
+langchain-openai
+langchain-text-splitters
+langchain-chroma
